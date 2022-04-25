@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============0311905559558156067=="
+MIME-Version: 1.0
+
+--===============0311905559558156067==
+Content-Type: text/x-shellscript; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="startup_script.sh"
+
+IyEvYmluL2Jhc2gKCmFwdC1nZXQgdXBkYXRlCmFwdC1nZXQgaW5zdGFsbCAteSBydWJ5LWZ1bGwg
+cnVieS1idW5kbGVyIGJ1aWxkLWVzc2VudGlhbApydWJ5IC12CmJ1bmRsZXIgLXYKCndnZXQgLXFP
+IC0gaHR0cHM6Ly93d3cubW9uZ29kYi5vcmcvc3RhdGljL3BncC9zZXJ2ZXItNC4yLmFzYyB8IHN1
+ZG8gYXB0LWtleSBhZGQgLQplY2hvICJkZWIgWyBhcmNoPWFtZDY0LGFybTY0IF0gaHR0cHM6Ly9y
+ZXBvLm1vbmdvZGIub3JnL2FwdC91YnVudHUgeGVuaWFsL21vbmdvZGItb3JnLzQuMiBtdWx0aXZl
+cnNlIiB8IHN1ZG8gdGVlIC9ldGMvYXB0L3NvdXJjZXMubGlzdC5kL21vbmdvZGItb3JnLTQuMi5s
+aXN0CmFwdC1nZXQgdXBkYXRlCmFwdC1nZXQgaW5zdGFsbCAteSBtb25nb2RiLW9yZwpzeXN0ZW1j
+dGwgc3RhcnQgbW9uZ29kCnN5c3RlbWN0bCBlbmFibGUgbW9uZ29kCnN5c3RlbWN0bCBzdGF0dXMg
+bW9uZ29kCgphcHQtZ2V0IGluc3RhbGwgLXkgZ2l0CmdpdCBjbG9uZSAtYiBtb25vbGl0aCBodHRw
+czovL2dpdGh1Yi5jb20vZXhwcmVzczQyL3JlZGRpdC5naXQKCmNkIHJlZGRpdCAmJiBidW5kbGUg
+aW5zdGFsbApwdW1hIC1kCnBzIGF1eCB8IGdyZXAgcHVtYQoK
+
+--===============0311905559558156067==
+Content-Type: text/cloud-config; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="userdata.yaml"
+
+I2Nsb3VkLWNvbmZpZwp1c2VyczoKICAtIG5hbWU6IHljLXVzZXIKICAgIGdyb3Vwczogc3Vkbwog
+ICAgc2hlbGw6IC9iaW4vYmFzaAogICAgc3VkbzogWydBTEw9KEFMTCkgTk9QQVNTV0Q6QUxMJ10K
+ICAgIHNzaC1hdXRob3JpemVkLWtleXM6CiAgICAgIC0gc3NoLXJzYSBBQUFBQjNOemFDMXljMkVB
+QUFBREFRQUJBQUFCQVFDUnZqOUxrTjVQSkR0aGxjQVlsN2Vsa3JDWWcvYXpGNk5wTWVTZGRoZyta
+K1ZDalF3U1MxTWVvUTdSOTZDdEtXMDJWaGtLOVdtQVd4KytuQjN4d3B0WG4rRlF4aVV3V290dm44
+UHYzNGxBY0dMdDRSUkZnYzNLR0xva0tNTUhVNXgwUkowTjFLWTh1NVJEOTMyYis0NTF3aERoazBS
+VG1QeEZyclZQQ1hGSWd4bkhwM0I2MmxlcEU0UitYY3RQQUU4bG8vVkMxTzl5dmVkMWhTTXdkYnY3
+UmRvNE9rTFV0SjFNa0JLQUxEUE1IbCtIQU9XYlRXT0xhTlRVWmlZTkFLSFg3cTJtcHBXcm9HTStN
+ZlM1UXNyVStMQjM0dFk4RThpTGpobTJ5ZGpORDRPaStoZVJCZW9Pb284anRZMUw0c0k5RUtSVG9r
+b3RtUkNFTWdEQkRxa3AgdGFwa2lwbHVzCgo=
+
+--===============0311905559558156067==--
